@@ -1,0 +1,14 @@
+ <th>ID</th>
+                        <th>Student_Name</th>
+                        <th>Gender</th>
+                        <th>DOB</th>
+                        <th>Age</th>
+						<th>Course</th>
+						<th>Branch</th>
+						<th>Stud_Phone</th>
+						<th>Stud_Email</th>
+						<th>Parent_Name</th>
+						<th>Par_Phone</th>
+						<th>Par_Email</th>
+						<th>Address</th>
+						<th>status</th>
